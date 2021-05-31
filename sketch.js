@@ -12,6 +12,36 @@ createCanvas(1200,480);
 engine = Engine.create();
 world = engine.world;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 pendulum1 = new pendulum(900,200,"white");
 pendulum2 = new pendulum(800,200,"white");
 pendulum3 = new pendulum(700,200,"white");
